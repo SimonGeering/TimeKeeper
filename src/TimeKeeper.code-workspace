@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../"
+			"path": "."
 		}
 	],
 	"settings": {
@@ -78,7 +78,9 @@
     "coverage-gutters.showGutterCoverage": true,
     "coverage-gutters.showLineCoverage": false,
     "trailing-spaces.syntaxIgnore": ["markdown"],
-    "browser-preview.startUrl": "http://127.0.0.1:4000/TimeKeeper/"
+    "browser-preview.startUrl": "http://127.0.0.1:4000/TimeKeeper/",
+    "vscode-edge-devtools.mirrorEdits": true,
+    "vscode-edge-devtools.themes": "System preference"
   },
   "extensions": {
     "recommendations": [
