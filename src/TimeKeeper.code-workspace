@@ -5,9 +5,6 @@
 		}
 	],
 	"settings": {
-    "omnisharp.loggingLevel": "warning",
-    "omnisharp.enableEditorConfigSupport": true,
-		"omnisharp.enableRoslynAnalyzers": true,
     "files.associations": {
       "*/DevOps/.yml": "azure-pipelines"
     },
@@ -81,28 +78,18 @@
     "coverage-gutters.showGutterCoverage": true,
     "coverage-gutters.showLineCoverage": false,
     "trailing-spaces.syntaxIgnore": ["markdown"],
-    "npm.enableScriptExplorer": true,
     "browser-preview.startUrl": "http://127.0.0.1:4000/TimeKeeper/"
   },
   "extensions": {
     "recommendations": [
-      "formulahendry.dotnet-test-explorer",
       "coenraads.bracket-pair-colorizer",
-      "ms-dotnettools.csharp",
-      "k--kato.docomment",
       "streetsidesoftware.code-spell-checker",
-      "ryanluker.vscode-coverage-gutters",
       "editorconfig.editorconfig",
       "rexebin.f12-open-file",
       "donjayamanne.githistory",
       "eamodio.gitlens",
-      "yzhang.markdown-all-in-one",
       "auchenberg.vscode-browser-preview",
-      "davidanson.vscode-markdownlint",
       "christian-kohler.path-intellisense",
-      "ms-azure-devops.azure-pipelines",
-      "ms-mssql.mssql",
-      "ms-vscode.azure-account",
       "mrmlnc.vscode-scss",
       "wayou.vscode-todo-highlight",
       "gruntfuggly.todo-tree",
